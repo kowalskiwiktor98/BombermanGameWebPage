@@ -1,0 +1,32 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\Bomberman\Build\Build.asm.code.unityweb" />
+    <None Include="wwwroot\Bomberman\Build\Build.asm.framework.unityweb" />
+    <None Include="wwwroot\Bomberman\Build\Build.asm.memory.unityweb" />
+    <None Include="wwwroot\Bomberman\Build\Build.data.unityweb" />
+    <None Include="wwwroot\Bomberman\Build\UnityLoader.js" />
+    <None Include="wwwroot\Bomberman\index.html" />
+    <None Include="wwwroot\Bomberman\TemplateData\favicon.ico" />
+    <None Include="wwwroot\Bomberman\TemplateData\fullscreen.png" />
+    <None Include="wwwroot\Bomberman\TemplateData\progressEmpty.Dark.png" />
+    <None Include="wwwroot\Bomberman\TemplateData\progressEmpty.Light.png" />
+    <None Include="wwwroot\Bomberman\TemplateData\progressFull.Dark.png" />
+    <None Include="wwwroot\Bomberman\TemplateData\progressFull.Light.png" />
+    <None Include="wwwroot\Bomberman\TemplateData\progressLogo.Dark.png" />
+    <None Include="wwwroot\Bomberman\TemplateData\progressLogo.Light.png" />
+    <None Include="wwwroot\Bomberman\TemplateData\style.css" />
+    <None Include="wwwroot\Bomberman\TemplateData\UnityProgress.js" />
+    <None Include="wwwroot\Bomberman\TemplateData\webgl-logo.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.1.1" />
+  </ItemGroup>
+
+</Project>
