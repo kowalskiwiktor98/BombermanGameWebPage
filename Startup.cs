@@ -32,6 +32,7 @@ namespace BombermanGame
                 options.MinimumSameSitePolicy = SameSiteMode.None;
             });
 
+           
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
         }
@@ -51,6 +52,7 @@ namespace BombermanGame
                 app.UseHsts();
             }
 
+            //Needed for WebGL to work
             app.UseFileServer();
             StaticFileOptions option = new StaticFileOptions();
             FileExtensionContentTypeProvider contentTypeProvider = (FileExtensionContentTypeProvider)option.ContentTypeProvider ??

@@ -14,8 +14,6 @@ C:\Users\Wiktor\source\repos\BombermanGame\obj\Debug\netcoreapp2.1\BombermanGame
 C:\Users\Wiktor\source\repos\BombermanGame\obj\Debug\netcoreapp2.1\BombermanGame.TagHelpers.input.cache
 C:\Users\Wiktor\source\repos\BombermanGame\obj\Debug\netcoreapp2.1\BombermanGame.TagHelpers.output.cache
 C:\Users\Wiktor\source\repos\BombermanGame\obj\Debug\netcoreapp2.1\BombermanGame.RazorCoreGenerate.cache
-C:\Users\Wiktor\source\repos\BombermanGame\obj\Debug\netcoreapp2.1\Razor\Pages\About.g.cshtml.cs
-C:\Users\Wiktor\source\repos\BombermanGame\obj\Debug\netcoreapp2.1\Razor\Pages\Contact.g.cshtml.cs
 C:\Users\Wiktor\source\repos\BombermanGame\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
 C:\Users\Wiktor\source\repos\BombermanGame\obj\Debug\netcoreapp2.1\Razor\Pages\Index.g.cshtml.cs
 C:\Users\Wiktor\source\repos\BombermanGame\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.g.cshtml.cs
@@ -31,3 +29,4 @@ C:\Users\Wiktor\source\repos\BombermanGame\obj\Debug\netcoreapp2.1\BombermanGame
 C:\Users\Wiktor\source\repos\BombermanGame\obj\Debug\netcoreapp2.1\BombermanGame.pdb
 C:\Users\Wiktor\source\repos\BombermanGame\obj\Debug\netcoreapp2.1\BombermanGame.csproj.CopyComplete
 C:\Users\Wiktor\source\repos\BombermanGame\obj\Debug\netcoreapp2.1\Razor\Pages\Bomberman.g.cshtml.cs
+C:\Users\Wiktor\source\repos\BombermanGame\obj\Debug\netcoreapp2.1\Razor\Pages\Home.g.cshtml.cs
