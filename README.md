@@ -1,5 +1,6 @@
-# BombermanGameWebPage
+### BombermanGameWebPage
 ASP.NET Core website that hosts Unity WebGL game
+
 Hosted on AWS : http://bombermangame.eu-central-1.elasticbeanstalk.com/
 ### Preview
 Home Page
